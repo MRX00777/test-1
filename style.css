@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin-top: 50px;
+}
+
+.box-content{
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+
+.col{
+    width: 600px;
+    max-height: 235px;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box-8,
+.box-1{
+    background: #D9D9D9;
+}
+
+.box-10,
+.box-5,
+.box-2{
+    background: #3CC130;
+}
+
+.box-11, 
+.box-7 ,
+.box-3{
+    background: #D24848;
+}
+
+.box-9,
+.box-6,
+.box-4{
+    background: #3783DD;
+}
+
+
+
+
+
+
+
+
